@@ -1,6 +1,12 @@
 **1. Identificação do Projeto**
 Nome do Projeto: Ocean - Study Flow Sync.
-<img width="500" height="500" alt="Black and White Modern Personal Brand Logo" src="https://github.com/user-attachments/assets/d72ba345-4716-47bd-be98-f6d85f88f3d5" />
+
+
+
+<p align="center">
+  <img width="500" height="500" alt="Black and White Modern Personal Brand Logo"
+  src="https://github.com/user-attachments/assets/d72ba345-4716-47bd-be98-f6d85f88f3d5" />
+</p>
 
 Autor: Pedro Rolin Schmitz
 
