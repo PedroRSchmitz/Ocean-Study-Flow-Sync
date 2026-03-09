@@ -1,13 +1,9 @@
-**Estrutura do Escopo de Projeto de um TCC**
-
 **1. Identificação do Projeto**
 Nome do Projeto: Ocean - Study Flow Sync.
+<img width="500" height="500" alt="Black and White Modern Personal Brand Logo" src="https://github.com/user-attachments/assets/d72ba345-4716-47bd-be98-f6d85f88f3d5" />
 
 Autor: Pedro Rolin Schmitz
 
-Orientador: A definir
-
-Data de Aprovação: (Pendente)
 
 **2. Introdução e Visão Geral**
 
@@ -19,7 +15,7 @@ Desenvolver uma aplicação web intuitiva e de fácil utilização para a organi
 
 Implementar funcionalidades essenciais como gerenciamento de tarefas, calendário acadêmico e visualização de progresso.
 
-Integrar a aplicação com o Moodle para sincronizar disciplinas e atividades de forma automática.
+Integrar a aplicação com o **Moodle** para sincronizar disciplinas e atividades de forma automática.
 
 Garantir que a aplicação seja instalável e responsiva em diversos dispositivos (desktop e mobile).
 
@@ -73,14 +69,4 @@ Funcionalidade 4: Integração com o Moodle: Sincroniza disciplinas e atividades
 
 Demonstrações em vídeo ou GIF serão adicionadas aqui.
 
-**8. Acesso ao projeto**
 
-Link para o projeto hospedado ou instruções sobre como o usuário pode baixar e executar a aplicação.
-
-A ser incluído posteriormente.
-
-**9. Licença**
-
-Geralmente, repositórios públicos no GitHub são usados para compartilhar softwares de código aberto. Para que um repositório seja realmente de código aberto, ele precisa obter uma licença para que outros tenham a liberdade de usar, alterar e distribuir o software.
-
-A ser incluído posteriormente.
