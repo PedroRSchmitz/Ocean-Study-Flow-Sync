@@ -1,7 +1,7 @@
 **Estrutura do Escopo de Projeto de um TCC**
 
 **1. Identificação do Projeto**
-Nome do Projeto: Oceon - Study Flow Sync.
+Nome do Projeto: Ocean - Study Flow Sync.
 
 Autor: Pedro Rolin Schmitz
 
